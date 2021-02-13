@@ -1,0 +1,15 @@
+:host {
+  .card-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .option-card {
+    min-width: 14rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+
+    cursor: pointer;
+  }
+}
